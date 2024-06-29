@@ -79,3 +79,6 @@ Make predictions using the trained models:
 ```bash
 python src/predict.py
 ```
+### Conclusion
+
+The Singapore Resale Flat Price Prediction project successfully developed a machine learning model to forecast resale prices of Housing and Development Board (HDB) flats in Singapore. By leveraging historical transaction data and applying advanced machine learning techniques, the project aimed to provide accurate price predictions and insights into factors influencing property values.
